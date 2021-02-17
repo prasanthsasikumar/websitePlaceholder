@@ -1,4 +1,4 @@
-# prasanthsasikumar.com
+# prasanthsasikumar.com [Static Site]
 
 Timelapse of buildig this static site : https://youtu.be/0gIYL1jFjSA
 
