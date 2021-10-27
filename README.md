@@ -1,5 +1,9 @@
 # prasanthsasikumar.com [Static Site]
 
+<p>
+  <img width="250" align='left' src="https://github.com/prasanthsasikumar/pskWebsite/blob/main/images/preview.png?raw=true">
+</p>
+
 View live - [https://confident-mclean-2adaf2.netlify.app/](https://confident-mclean-2adaf2.netlify.app/)
 
 This was a placeholder for the domain while the current site was developed - [https://www.prasanthsasikumar.com/](https://www.prasanthsasikumar.com/)
